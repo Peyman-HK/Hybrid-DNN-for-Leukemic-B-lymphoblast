@@ -21,6 +21,4 @@ The pipeline for the hybrid CNN consists of VGG and is as follows:
   <img src="/images/Pipeline.jpg?raw=true "Hybrid CNNs pipeline" />
 </p>
 
-![main flow](/images/Pipeline.jpg?raw=true "Hybrid CNNs pipeline")
-
 And thiat is it. 
