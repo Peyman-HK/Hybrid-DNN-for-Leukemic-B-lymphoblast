@@ -18,6 +18,5 @@ Download link for extracted feature: https://drive.google.com/file/d/1ICiuAreN2D
 The pipeline for the hybrid CNN consists of VGG and is as follows:
 
 ![main flow](/images/Pipeline.jpg?raw=true "Hybrid CNNs pipeline")
-![main flow](/images/Pipeline.jpg?raw=true)
 
 And thiat is it. 
