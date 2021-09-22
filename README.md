@@ -17,5 +17,5 @@ Download link for extracted feature: https://drive.google.com/file/d/1ICiuAreN2D
 
 The pipeline for the hybrid CNN consists of VGG and is as follows:
 
-![main flow](/../blob/images/Pipeline.jpeg?raw=true "Hybrid CNNs pipeline")
-https://github.com/Peyman-HK/Hybrid-DNN-for-Leukemic-B-lymphoblast-/blob/main/images/Pipeline.jpeg
+![main flow](/../blob/images/Pipeline.jpg?raw=true "Hybrid CNNs pipeline")
+https://github.com/Peyman-HK/Hybrid-DNN-for-Leukemic-B-lymphoblast-/blob/main/images/Pipeline.jpg
