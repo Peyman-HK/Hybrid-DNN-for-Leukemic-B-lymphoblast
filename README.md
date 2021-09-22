@@ -12,3 +12,10 @@ Download link for the augmented dataset for this study: https://drive.google.com
 
 
 Download link for extracted feature: https://drive.google.com/file/d/1ICiuAreN2DHqiOMlKLmae5fusUYVXl0R/view?usp=sharing
+
+
+
+The pipeline for the hybrid CNN consists of VGG and is as follows:
+
+![main flow](/../blob/images/Pipeline.jpeg?raw=true "Hybrid CNNs pipeline")
+https://github.com/Peyman-HK/Hybrid-DNN-for-Leukemic-B-lymphoblast-/blob/main/images/Pipeline.jpeg
