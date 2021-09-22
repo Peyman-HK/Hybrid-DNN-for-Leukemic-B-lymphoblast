@@ -15,7 +15,7 @@ Download link for extracted feature: https://drive.google.com/file/d/1ICiuAreN2D
 
 
 
-The pipeline for the hybrid CNN consists of VGG and is as follows:
+The pipeline for the hybrid CNN consists of VGG and mobilenet is as follows:
 
 <p align="center">
   <img src="/images/Pipeline.jpg?raw=true "Hybrid CNNs pipeline" />
